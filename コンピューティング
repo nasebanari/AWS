@@ -4,5 +4,6 @@
 (2)
 ・Amazon EC2 Auto Scaling
 (3)
-・Amazon EC2インスタンスに対してAmazon GarudDutyを適用する。
+・Amazon EC2インスタンスに対してセキュリティグループおよびネットワークACLを
+  利用したトラフィック制御を実施する。
 ・Amazon EC2インスタンスとELBの間の通信を暗号化する。

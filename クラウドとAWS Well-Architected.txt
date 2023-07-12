@@ -1,5 +1,5 @@
 クラウドとAWS Well-Architected 課題
-(1)PaaS
+(1)SaaS
 
 (2)信頼性
 
