@@ -1,0 +1,8 @@
+ストレージ
+(1)S3
+(2)EFS
+(3)S3 Glacier Deep Archive
+(4)EFS
+(5)EBS
+(6)AWS Storage Gateway
+(7)Snowball edge
