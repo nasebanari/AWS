@@ -2,8 +2,8 @@
 (1)CloudFormation
 (2)・CloudFormation
    ・Elastic Beanstalk
-(3)Amazon CloudWatch
+(3)AWS CloudTrail
 (4)CloudWatch
 (5)AWS Trusted Advisor
-(6)AWS Trusted Advisor
-(7)CloudTrail
+(6)AWS Budgets
+(7)AWS Config

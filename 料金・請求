@@ -2,7 +2,7 @@
 (1)オンデマンドインスタンス
 (2)リザーブド支払いモデル
 (3)1時間15分20秒
-(4)IAM
+(4)AWS Organizations
 (5)部署ごとにIAMユーザーグループを設定してIAMユーザーをアサインする。
 (6)Cost Explorer
 (7)AWS Pricing Calculator
